@@ -1,0 +1,3 @@
+[submodule "package/ddns-go"]
+	path = package/ddns-go
+	url = https://github.com/sirpdboy/luci-app-ddns-go.git
